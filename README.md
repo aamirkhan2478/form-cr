@@ -1,65 +1,197 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Portfolio Website
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [� Table of Contents](#-table-of-contents)
+- [📖 About the Project ](#-about-the-project-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 About the Project <a name="about-project"></a>
 
 > A site showing some of my best works structured beautifully. This site is fully responsive and compatible to all screen sizes and all device. A combination of flexbox and grid are used to bring this site to life. It is divided into a navigation section, an homepage section, a work section, an about section and a footer section.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- HTML
-- CSS3
+### Tech Stack <a name="tech-stack"></a>
 
-# Getting Started
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-To get a local copy up and running follow these simple example steps.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML5</a></li>
+    <li><a href="https://reactjs.org/">CSS3</a></li>
+    <li><a href="https://reactjs.org/">JS</a></li>
+  </ul>
+</details>
 
-⬜ clone the app by running this command `git clone https://github.com/DuaneDave/Form-CR.git`
 
-⬜ Run this command `cd curriculum-CR training-CONTACT-Form`
+<!-- Features -->
 
-⬜ Open in browser
+### Key Features <a name="key-features"></a>
 
-# Prerequisites
+> Key features of the application.
 
-You will be needing:
+- **Show all my project here**
+- **Submit form**
 
-⬜ A web browser to view output
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⬜ A text editor or terminal
+<!-- LIVE DEMO -->
 
-# Run tests
+## 🚀 Live Demo <a name="live-demo"></a>
 
-You can run tests by following these steps:
+> Add a link to your deployed project.
 
-⬜ commit and push your changes
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
-⬜ navigate to pull request
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⬜ I have created a pull request which runs linters or you could simply create a pull rrequest of your own
+<!-- GETTING STARTED -->
 
-## Authors
+## 💻 Getting Started <a name="getting-started"></a>
 
-👤 **OBIEBI OKIEMUTE DAVID**
+> Describe how a new developer could make use of your project.
 
-- GitHub: [@githubhandle](https://github.com/DuaneDave)
-- Twitter: [@twitterhandle](https://twitter.com/dave_duane)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okiemute-david-obiebi-6b4a6a230/)
+To get a local copy up and running, follow these steps.
 
-## 🤝 Contributing
+### Prerequisites
+
+In order to run this project you need:
+
+
+Example command:
+
+```sh
+ install nodejs
+```
+
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://github.com/DuaneDave/form-cr.git
+```
+-
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  cd my-project
+  npm i
+```
+-
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Features I will add to the project.
+
+- [ ] **Dynamic projects**
+- [ ] **Send contact information to database**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DuaneDave/Form-CR/issues)
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
+> Write a message to encourage readers to support your project
 
-## 📝 License
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
