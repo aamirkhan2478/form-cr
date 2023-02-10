@@ -51,8 +51,6 @@ REQUIRED SECTIONS:
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -78,8 +76,6 @@ REQUIRED SECTIONS:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,8 +83,6 @@ REQUIRED SECTIONS:
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -137,8 +131,6 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
@@ -171,9 +163,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like my project please give it a ⭐️ .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,9 +171,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+The Design credits go to Figma design provided by microvers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
