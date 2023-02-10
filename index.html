@@ -305,6 +305,9 @@
           <input
             name="fname"
             id="name"
+            required
+            placeholder="Name"
+            minlength="100"
           />
           <input
             name="email"
@@ -312,10 +315,12 @@
             required
             placeholder="Email address"
             id="email"
+            maxlength="200"
           />
           <textarea
             name="message"
             placeholder="Enter text here"
+            required
           ></textarea>
           <button class="special" type="submit">Get in touch</button>
         </form>
